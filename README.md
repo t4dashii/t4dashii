@@ -29,14 +29,6 @@ Sou um desenvolvedor  **Full Stack**
 
 ---
 
-
-### 📈 Perfil GitHub
-
-![Commits](https://img.shields.io/badge/Commits-Ver%20Perfil-blue?style=for-the-badge&logo=github)
-![Followers](https://img.shields.io/github/followers/t4dashii?label=Seguidores&style=for-the-badge)
-![Top Language](https://img.shields.io/github/languages/top/t4dashii/[NOME-DE-UM-REPO-SEU]?style=for-the-badge)
----
-
 ### 📫 Vamos conversar?
 
 * 💼 **LinkedIn:** https://www.linkedin.com/in/pedro-vieira-b98909210/

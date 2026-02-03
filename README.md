@@ -32,8 +32,8 @@ Sou um desenvolvedor  **Full Stack**
 ### 📊 Estatísticas
 
 <p align="left">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=[SEU-USUARIO]&show_icons=true&theme=radical" />
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU-USUARIO]&layout=compact&theme=radical" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=t4dashii&show_icons=true&theme=radical" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?t4dashii&layout=compact&theme=radical" />
 </p>
 
 ---

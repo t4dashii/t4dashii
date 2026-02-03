@@ -31,9 +31,9 @@ Sou um desenvolvedor  **Full Stack**
 
 ### 📊 Estatísticas
 
-[![Estatísticas de t4dashii](https://github-readme-stats.vercel.app/api?username=t4dashii&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Estatísticas de t4dashii](https://github-readme-stats.vercel.app/api?username=t4dashii&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t4dashii&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=t4dashii&layout=compact&theme=dark)
 
 ---
 

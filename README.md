@@ -29,9 +29,12 @@ Sou um desenvolvedor  **Full Stack**
 
 ---
 
-### ⚡ Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=t4dashii&theme=dark)
 
+### 📈 Perfil GitHub
+
+![Commits](https://img.shields.io/badge/Commits-Ver%20Perfil-blue?style=for-the-badge&logo=github)
+![Followers](https://img.shields.io/github/followers/t4dashii?label=Seguidores&style=for-the-badge)
+![Top Language](https://img.shields.io/github/languages/top/t4dashii/[NOME-DE-UM-REPO-SEU]?style=for-the-badge)
 ---
 
 ### 📫 Vamos conversar?
